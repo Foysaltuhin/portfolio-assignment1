@@ -4,7 +4,9 @@ body{
 .section-1{
     display: flex;
 }
-h1{ font-size: 50;}
+h1{ 
+    font-size: 50px;
+}
 .stay-focused{
     width: 50%;
     margin: 30px;
