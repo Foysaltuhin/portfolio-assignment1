@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.section-1{
+    display: flex;
+}
+.stay-focused{
+    width: 50%;
+    margin: 30px;
+    text-align: justify;
+    font-size: 20px;
+}
+.for-border{
+    border-left: 5px solid salmon;
+}
+.mission2022{
+    color: sandybrown;
+}
+.div-image{
+    width: 50%;
+    text-align: center;
+}
+.section-1-img{
+    height: 500px;
+    width: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(6, 185, 170);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.mymission{
+    text-align: center;
+    color: darkblue;
+    font-size: 40px;
+}
+.mission-vission-goals{
+    display: flex;
+}
+.mission{
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    background-color: darksalmon;
+    border-radius: 20px;
+}
+.vission{
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightseagreen;
+    border-radius: 20px;
+}
+.goals{
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    background-color: sandybrown;
+    border-radius: 20px;
+}
+.span{
+    color: orangered;
+}
+.img-3{
+    height: 100px;
+    width: 100px;
+}
+.img-workhard{
+ height: 250px;
+ width: 250px;
+}
+.div-workhardimg{
+    margin: 50px 50px 50px 100px;
+    width: 50%;
+}
+.div-workhard{
+    margin: 40px;
+    width: 50%;
+}
+.footer{
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+}
